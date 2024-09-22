@@ -2,10 +2,10 @@
 // ==UserScript==
 // @name         Drive2 liker Прямой эфир
 // @namespace    https://www.drive2.ru/life/
-// @version      2024-02-13
+// @version      2024-09-22
 // @description  Лайкаю весь прямой эфир
 // @author       PD
-// @match        https://www.drive2.ru/*
+// @match        https://www.drive2.ru/life/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
