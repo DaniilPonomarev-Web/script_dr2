@@ -1,2 +1,2 @@
-# script_dr2
- liker
+1. Скачать в хроме расширение "tampermonkey" https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru;
+2. В нем создать новый скрипт и вставить туда содержимое файла script.js
