@@ -56,7 +56,7 @@ async function runScript() {
         } else {
             console.log('Ссылка на первую страницу не найдена.');
         }*/
- 				window.location.href = 'https://www.drive2.ru/life/';
+ 	    window.location.href = 'https://www.drive2.ru/life/';
     }
 }
 
