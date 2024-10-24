@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         Drive2 liker Прямой эфир
 // @namespace    https://www.drive2.ru/life/
-// @version      2024-09-22
+// @version      2
 // @description  Лайкаю весь прямой эфир
 // @author       PD
 // @match        https://www.drive2.ru/life/*
@@ -50,12 +50,6 @@ async function runScript() {
 
     // Возвращаемся на первую страницу, если находимся на 5-й странице
     if (currentPage + 4 >= 5) {
-        /*const firstPageLink = document.querySelector('a.c-pager__link[href="/life/"]');
-        if (firstPageLink) {
-            firstPageLink.click();
-        } else {
-            console.log('Ссылка на первую страницу не найдена.');
-        }*/
  	    window.location.href = 'https://www.drive2.ru/life/';
     }
 }
